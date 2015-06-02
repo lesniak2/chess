@@ -59,15 +59,15 @@ public class ChessBoard extends JFrame implements ActionListener {
         
 		JMenuItem mntmRestart = new JMenuItem("Restart");
 		FileMenu.add(mntmRestart);
-        mntmRestart.addActionListener(this);
+		mntmRestart.addActionListener(this);
 
 		JMenuItem mntmForfeit = new JMenuItem("Forfeit");
 		FileMenu.add(mntmForfeit);
-        mntmForfeit.addActionListener(this);
+		mntmForfeit.addActionListener(this);
         
 		JMenuItem mntmClose = new JMenuItem("Close");
 		FileMenu.add(mntmClose);
-        mntmClose.addActionListener(this);
+		mntmClose.addActionListener(this);
 
 		JPanel panel = new JPanel();
 		panel.setBackground(Color.DARK_GRAY);

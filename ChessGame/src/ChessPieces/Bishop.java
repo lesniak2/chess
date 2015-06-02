@@ -14,8 +14,8 @@ import GameLogic.Team;
 public class Bishop implements Piece {
 	/**
 	 * Constructs a Bishop piece belonging to a certain team at a location on the board.
-	 * @param l The starting location of the Rook.
-	 * @param t The team to which the Rook belongs. Valid values: Team.WHITE, Team.BLACK
+	 * @param l The starting location of the Bishop.
+	 * @param t The team to which the Bishop belongs. Valid values: Team.WHITE, Team.BLACK
 	 * @throws IllegalArgumentException when a team is not assigned.
 	 * @see Team.java
 	 */
