@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/fa14-cs242/!svn/ver/4883/tlesnia2/ChessGame/src/ChessPieces
+END
+ChessPiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/fa14-cs242/!svn/ver/4883/tlesnia2/ChessGame/src/ChessPieces/ChessPiece.java
+END
+Piece.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/fa14-cs242/!svn/ver/4883/tlesnia2/ChessGame/src/ChessPieces/Piece.java
+END
+Bishop.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/fa14-cs242/!svn/ver/4883/tlesnia2/ChessGame/src/ChessPieces/Bishop.java
+END
+Cannon.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/fa14-cs242/!svn/ver/4883/tlesnia2/ChessGame/src/ChessPieces/Cannon.java
+END
+Knight.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/fa14-cs242/!svn/ver/4883/tlesnia2/ChessGame/src/ChessPieces/Knight.java
+END
+Queen.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/fa14-cs242/!svn/ver/4883/tlesnia2/ChessGame/src/ChessPieces/Queen.java
+END
+Rook.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/fa14-cs242/!svn/ver/4883/tlesnia2/ChessGame/src/ChessPieces/Rook.java
+END
+Pawn.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/fa14-cs242/!svn/ver/4883/tlesnia2/ChessGame/src/ChessPieces/Pawn.java
+END
+King.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/fa14-cs242/!svn/ver/4883/tlesnia2/ChessGame/src/ChessPieces/King.java
+END
+Assassin.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/fa14-cs242/!svn/ver/4883/tlesnia2/ChessGame/src/ChessPieces/Assassin.java
+END
+Pieces.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/fa14-cs242/!svn/ver/4883/tlesnia2/ChessGame/src/ChessPieces/Pieces.java
+END
